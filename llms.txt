@@ -1,0 +1,10 @@
+# Playbooks de Ativo
+
+> Guia de consulta por equipamento: falhas típicas, diagnóstico, dados abertos e lacunas.
+
+## Páginas
+- [Playbooks de Ativo](https://projetoindustrial.github.io/playbooks-de-ativo/): página principal
+
+## Projeto Industrial
+- [Portal](https://projetoindustrial.github.io/): início do ecossistema
+- [Sitemap](https://projetoindustrial.github.io/playbooks-de-ativo/sitemap.xml)
