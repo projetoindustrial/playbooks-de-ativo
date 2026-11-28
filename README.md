@@ -3,3 +3,5 @@
 Guia de consulta por equipamento ou tema industrial: o que costuma falhar, como diagnosticar, que dados abertos existem e o que ainda falta. Cada item lista as fontes com licença e situação de uso.
 
 Site: https://projetoindustrial.github.io/playbooks-de-ativo/
+
+Os 31 playbooks são numerados de 01 a 31 (ids e âncoras `#01_...` a `#31_...`). As âncoras antigas continuam funcionando por redirecionamento na página.

@@ -3,37 +3,38 @@
 > Guia de consulta por equipamento ou tema industrial: falhas típicas, diagnóstico, dados abertos e lacunas. 31 playbooks em uma única página, cada um com âncora própria. Cobertura de dados declarada: 6 boa, 14 parcial, 11 com poucos dados abertos.
 
 ## Playbooks (âncoras da página)
-- [Bomba centrífuga](https://projetoindustrial.github.io/playbooks-de-ativo/#03_playbook_bomba): boa cobertura de dados
-- [Compressor](https://projetoindustrial.github.io/playbooks-de-ativo/#05_playbook_compressor): cobertura parcial
-- [Trocador de calor](https://projetoindustrial.github.io/playbooks-de-ativo/#06_playbook_trocador): cobertura parcial
-- [Válvula de controle e válvula de alívio (PSV)](https://projetoindustrial.github.io/playbooks-de-ativo/#09_playbook_valvula): boa cobertura de dados
-- [Rolamento e engrenagem (gearbox)](https://projetoindustrial.github.io/playbooks-de-ativo/#10_playbook_rolamento): boa cobertura de dados
-- [Reator CSTR (reator agitado contínuo)](https://projetoindustrial.github.io/playbooks-de-ativo/#11_playbook_reator_cstr): cobertura parcial
-- [Vaso de pressão](https://projetoindustrial.github.io/playbooks-de-ativo/#12_playbook_vaso_pressao): poucos dados abertos
-- [Tubulação](https://projetoindustrial.github.io/playbooks-de-ativo/#13_playbook_tubulacao): cobertura parcial
-- [Coluna de destilação](https://projetoindustrial.github.io/playbooks-de-ativo/#14_playbook_destilacao): poucos dados abertos
-- [Tanque de armazenamento](https://projetoindustrial.github.io/playbooks-de-ativo/#15_playbook_tanque): poucos dados abertos
-- [Separador trifásico](https://projetoindustrial.github.io/playbooks-de-ativo/#16_playbook_separador_trifasico): poucos dados abertos
-- [Pirólise de resíduo plástico](https://projetoindustrial.github.io/playbooks-de-ativo/#17_playbook_pirolise): poucos dados abertos
-- [Torre de resfriamento](https://projetoindustrial.github.io/playbooks-de-ativo/#18_playbook_torre_resfriamento): poucos dados abertos
-- [Bateria de íon-lítio](https://projetoindustrial.github.io/playbooks-de-ativo/#19_playbook_bateria): boa cobertura de dados
-- [Malha de controle (PID)](https://projetoindustrial.github.io/playbooks-de-ativo/#20_playbook_malha_controle): poucos dados abertos
-- [Corrosão (material × meio)](https://projetoindustrial.github.io/playbooks-de-ativo/#21_playbook_corrosao): cobertura parcial
-- [Inspeção visual e detecção de anomalia por imagem](https://projetoindustrial.github.io/playbooks-de-ativo/#22_playbook_inspecao_visual): cobertura parcial
-- [Cibersegurança OT/ICS](https://projetoindustrial.github.io/playbooks-de-ativo/#23_playbook_ciberseguranca_ot): cobertura parcial
-- [Gêmeo digital e Asset Administration Shell (AAS)](https://projetoindustrial.github.io/playbooks-de-ativo/#24_playbook_gemeo_digital_aas): cobertura parcial
-- [Acidentes e incidentes industriais](https://projetoindustrial.github.io/playbooks-de-ativo/#25_playbook_acidentes_incidentes): boa cobertura de dados
-- [Motor elétrico e MCSA](https://projetoindustrial.github.io/playbooks-de-ativo/#28_playbook_motor_eletrico): boa cobertura de dados
-- [Caldeira e vapor](https://projetoindustrial.github.io/playbooks-de-ativo/#29_playbook_caldeira_vapor): cobertura parcial
-- [Falha de processo (TEP, FCCU e processo real)](https://projetoindustrial.github.io/playbooks-de-ativo/#30_playbook_falha_processo): cobertura parcial
-- [Turbina a gás e a vapor](https://projetoindustrial.github.io/playbooks-de-ativo/#31_playbook_turbina): cobertura parcial
-- [Manutenção e ordens de serviço](https://projetoindustrial.github.io/playbooks-de-ativo/#32_playbook_manutencao): cobertura parcial
-- [Transformadores de potência](https://projetoindustrial.github.io/playbooks-de-ativo/#35_playbook_transformadores): cobertura parcial
-- [Turbinas eólicas](https://projetoindustrial.github.io/playbooks-de-ativo/#36_playbook_eolica): cobertura parcial
-- [Chillers (planta de água gelada)](https://projetoindustrial.github.io/playbooks-de-ativo/#37_playbook_chillers): poucos dados abertos
-- [Emissões fugitivas (detecção de vazamento)](https://projetoindustrial.github.io/playbooks-de-ativo/#38_playbook_emissoes_fugitivas): poucos dados abertos
-- [Sistemas instrumentados de segurança (SIS/SIF)](https://projetoindustrial.github.io/playbooks-de-ativo/#39_playbook_sis_sif): poucos dados abertos
-- [Forno e aquecedor de processo](https://projetoindustrial.github.io/playbooks-de-ativo/#40_playbook_forno_aquecedor): poucos dados abertos
+Os playbooks foram numerados de 01 a 31 em 28/11/2026. As âncoras antigas (com a numeração anterior) continuam abrindo o playbook certo.
+- [Bomba centrífuga](https://projetoindustrial.github.io/playbooks-de-ativo/#01_playbook_bomba): boa cobertura de dados
+- [Compressor](https://projetoindustrial.github.io/playbooks-de-ativo/#02_playbook_compressor): cobertura parcial
+- [Trocador de calor](https://projetoindustrial.github.io/playbooks-de-ativo/#03_playbook_trocador): cobertura parcial
+- [Válvula de controle e válvula de alívio (PSV)](https://projetoindustrial.github.io/playbooks-de-ativo/#04_playbook_valvula): boa cobertura de dados
+- [Rolamento e engrenagem (gearbox)](https://projetoindustrial.github.io/playbooks-de-ativo/#05_playbook_rolamento): boa cobertura de dados
+- [Reator CSTR (reator agitado contínuo)](https://projetoindustrial.github.io/playbooks-de-ativo/#06_playbook_reator_cstr): cobertura parcial
+- [Vaso de pressão](https://projetoindustrial.github.io/playbooks-de-ativo/#07_playbook_vaso_pressao): poucos dados abertos
+- [Tubulação](https://projetoindustrial.github.io/playbooks-de-ativo/#08_playbook_tubulacao): cobertura parcial
+- [Coluna de destilação](https://projetoindustrial.github.io/playbooks-de-ativo/#09_playbook_destilacao): poucos dados abertos
+- [Tanque de armazenamento](https://projetoindustrial.github.io/playbooks-de-ativo/#10_playbook_tanque): poucos dados abertos
+- [Separador trifásico](https://projetoindustrial.github.io/playbooks-de-ativo/#11_playbook_separador_trifasico): poucos dados abertos
+- [Pirólise de resíduo plástico](https://projetoindustrial.github.io/playbooks-de-ativo/#12_playbook_pirolise): poucos dados abertos
+- [Torre de resfriamento](https://projetoindustrial.github.io/playbooks-de-ativo/#13_playbook_torre_resfriamento): poucos dados abertos
+- [Bateria de íon-lítio](https://projetoindustrial.github.io/playbooks-de-ativo/#14_playbook_bateria): boa cobertura de dados
+- [Malha de controle (PID)](https://projetoindustrial.github.io/playbooks-de-ativo/#15_playbook_malha_controle): poucos dados abertos
+- [Corrosão (material × meio)](https://projetoindustrial.github.io/playbooks-de-ativo/#16_playbook_corrosao): cobertura parcial
+- [Inspeção visual e detecção de anomalia por imagem](https://projetoindustrial.github.io/playbooks-de-ativo/#17_playbook_inspecao_visual): cobertura parcial
+- [Cibersegurança OT/ICS](https://projetoindustrial.github.io/playbooks-de-ativo/#18_playbook_ciberseguranca_ot): cobertura parcial
+- [Gêmeo digital e Asset Administration Shell (AAS)](https://projetoindustrial.github.io/playbooks-de-ativo/#19_playbook_gemeo_digital_aas): cobertura parcial
+- [Acidentes e incidentes industriais](https://projetoindustrial.github.io/playbooks-de-ativo/#20_playbook_acidentes_incidentes): boa cobertura de dados
+- [Motor elétrico e MCSA](https://projetoindustrial.github.io/playbooks-de-ativo/#21_playbook_motor_eletrico): boa cobertura de dados
+- [Caldeira e vapor](https://projetoindustrial.github.io/playbooks-de-ativo/#22_playbook_caldeira_vapor): cobertura parcial
+- [Falha de processo (TEP, FCCU e processo real)](https://projetoindustrial.github.io/playbooks-de-ativo/#23_playbook_falha_processo): cobertura parcial
+- [Turbina a gás e a vapor](https://projetoindustrial.github.io/playbooks-de-ativo/#24_playbook_turbina): cobertura parcial
+- [Manutenção e ordens de serviço](https://projetoindustrial.github.io/playbooks-de-ativo/#25_playbook_manutencao): cobertura parcial
+- [Transformadores de potência](https://projetoindustrial.github.io/playbooks-de-ativo/#26_playbook_transformadores): cobertura parcial
+- [Turbinas eólicas](https://projetoindustrial.github.io/playbooks-de-ativo/#27_playbook_eolica): cobertura parcial
+- [Chillers (planta de água gelada)](https://projetoindustrial.github.io/playbooks-de-ativo/#28_playbook_chillers): poucos dados abertos
+- [Emissões fugitivas (detecção de vazamento)](https://projetoindustrial.github.io/playbooks-de-ativo/#29_playbook_emissoes_fugitivas): poucos dados abertos
+- [Sistemas instrumentados de segurança (SIS/SIF)](https://projetoindustrial.github.io/playbooks-de-ativo/#30_playbook_sis_sif): poucos dados abertos
+- [Forno e aquecedor de processo](https://projetoindustrial.github.io/playbooks-de-ativo/#31_playbook_forno_aquecedor): poucos dados abertos
 
 ## Páginas
 - [Playbooks de Ativo](https://projetoindustrial.github.io/playbooks-de-ativo/): página principal (todos os playbooks)
